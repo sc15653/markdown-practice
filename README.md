@@ -11,13 +11,13 @@ Jollof rice is made by simmering long grain rice in a blended mixture of tomatoe
 I love how the ingredients come together in one pot, and fill the kitchen with a warm aroma as the rice cooks. Besides this, what i love the most is how it's served. I eat mine with grilled assorted meats and a chilled juice to balance the mood.
 
 
-**Again, more info about Duess and her love for jollof:**
+**Again, more reasons i love for jollof:**
 
-I enjoy making **very flavorful jollof rice** whenever my tummy rumbles for it.
+- I enjoy making **very flavorful jollof rice** whenever my tummy rumbles for it.
 
-I love the smell of *freshly blended peppers and tomatoes* while cooking. Don't get me started on the *little chunks of meat* i sneak into my mouth while cooking!
+- I love the smell of *freshly blended peppers and tomatoes* while cooking. Don't get me started on the *little chunks of meat* i sneak into my mouth while cooking!
 
-The taste of proper Nigerian jollof always makes me happy. ***My very first dish to make***!
+- The taste of proper Nigerian jollof always makes me happy. ***My very first dish to make***!
 
 
 ##  Ingredients I Use Often
@@ -56,7 +56,7 @@ Here is a reliable Nigerian jollof rice recipe website:
 
 **Code Elements About Cooking**
 
-Inline example:
+
 I adjust the heat level using the function `control_heat(level)`.
 
 Code block example:
