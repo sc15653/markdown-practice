@@ -1,4 +1,4 @@
-# H1 My Favorite Hobby
+#  My Favorite Hobby
 
 Cooking is my favorite hobby and Nigerian jollof rice is the dish I enjoy making the most. I can eat it: hot or cold, in the morning, afternoon or evening. It is bold, colorful, rich with spices, and always reminds me of home.
 
@@ -20,7 +20,7 @@ I love the smell of *freshly blended peppers and tomatoes* while cooking. Don't 
 The taste of proper Nigerian jollof always makes me happy. ***My very first dish to make***!
 
 
-## H2 Ingredients I Use Often
+##  Ingredients I Use Often
 
 - Long grain parboiled rice
 
@@ -48,7 +48,7 @@ The taste of proper Nigerian jollof always makes me happy. ***My very first dish
 5. Cook on medium heat until the rice becomes fluffy and fully red. Serve with assorted meat and chilled drink.
 
 
- ### H3 A Helpful Reference Website
+ ###  A Helpful Reference Website
 
 Here is a reliable Nigerian jollof rice recipe website:
 
