@@ -8,7 +8,7 @@ Jollof rice is made by simmering long grain rice in a blended mixture of tomatoe
 
 **Why I Enjoy Cooking Jollof**
 
-I love how the ingredients come together in one pot and fill the kitchen with a warm aroma as the rice cooks. Besides this, what i love the most is how it's served. I eat mine with grilled assorted meats and a chilled juice to balance the mood.
+I love how the ingredients come together in one pot, and fill the kitchen with a warm aroma as the rice cooks. Besides this, what i love the most is how it's served. I eat mine with grilled assorted meats and a chilled juice to balance the mood.
 
 
 **Again, more info about Duess and her love for jollof:**
