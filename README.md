@@ -47,13 +47,6 @@ I love how the ingredients come together in one pot, and fill the kitchen with a
 
 5. Cook on medium heat until the rice becomes fluffy and fully red. Serve with assorted meat and chilled drink.
 
-
- ###  A Helpful Reference Website
-
-Here is a reliable Nigerian jollof rice recipe website:
-
-### [Authentic Nigerian Jollof Rice](https://www.dashofjazz.com/nigerian-jollof-rice/)
-
 **Code Elements About Cooking**
 
 
@@ -74,6 +67,14 @@ def cook_jollof(rice):
 |----------------|-----------------------|
 | Party Jollof | 	Slightly smoky flavor |
 | Mild Jollof | 	Less pepper, softer heat |
+
+
+ ###  A Helpful Reference Website
+
+Here is a reliable Nigerian jollof rice recipe website:
+
+### [Authentic Nigerian Jollof Rice](https://www.dashofjazz.com/nigerian-jollof-rice/)
+
 
 
  **Jollof always brings people together.** [^jollof]
